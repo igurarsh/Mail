@@ -1,0 +1,35 @@
+textarea {
+    min-height: 400px;
+}
+
+.style_email {
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 8px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.style_date_email {
+    float: right;
+    margin-right: 5px;
+}
+
+.style_sender_email {
+    float: left;
+    margin-left: 5px;
+}
+
+.style_subject_email {
+    margin: 0 auto;
+    display: inline-block;
+}
+
+.email_clear{
+    clear: both;
+}
+
+.Email_btn{
+    color:inherit;
+}
+
